@@ -1,0 +1,21 @@
+*{
+    color: rgb(255, 255, 255);
+}
+
+.div1{
+    padding: 4%;
+    margin-top: 2%;
+    background-color: rgb(238, 241, 56);
+}
+
+.div2{
+    padding: 4%;
+    margin-top: 2%;
+    background-color: rgb(99, 48, 218);
+}
+
+.div3{
+    padding: 4%;
+    margin-top: 2%;
+    background-color: rgb(236, 124, 236);
+}
