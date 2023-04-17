@@ -51,7 +51,7 @@
          // $8_variable = erronea
 
 $numero = 65.5;
-$Nombres = "Alan";
+$Nombres = "Andrea Pérez Alanis";
 $variable;
 $Variable = "Tiene un valor";
 echo $numero;
